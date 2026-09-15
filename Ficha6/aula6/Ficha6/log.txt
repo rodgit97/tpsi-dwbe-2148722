@@ -1,0 +1,3 @@
+6. Para cada pedido que for efetuado, escreva no ficheiro log.txt, o caminho, o método HTTP e a data 
+separados por vírgula 
+

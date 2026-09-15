@@ -1,0 +1,19 @@
+4d. Qual a diferença para processar texto ou HTML?
+
+(Content-Type: text/plain), ou processar o texto o navegador rende o conteúdo como um texto simples;
+ (Content-Type: text/html), ou usar HTML, o navegador renderiza o conteúdo como uma pagina estruturada.
+
+10a. Inspecione as diferentes pastas e ficheiros
+
+o express-generator cria uma estrutura com pastas como routes, views e public.
+
+10b. Onde está a configuração do servidor HTTP?
+
+O arquivo principal que inicia o servidor é bin/www.
+
+c. Como executar esse projeto? 
+
+npx express-generator aula6
+cd aula6
+npm install
+npm start
